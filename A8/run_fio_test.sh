@@ -1,0 +1,1 @@
+timeout --preserve-status --signal=SIGKILL --kill-after=630 600 bash -c '/weka-jd/prod/platform_team/zsf/fio/run_fio_128k_ring_for_validate.sh'
